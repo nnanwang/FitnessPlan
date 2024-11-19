@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/flora/Desktop/SELF_Works/GPT-4/AI_Project/fitness-plan/backend/venv"
+set -gx VIRTUAL_ENV "/Users/flora/Desktop/SELF_Works/GPT-4/AI_Project/FitnessPlan/backend/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
