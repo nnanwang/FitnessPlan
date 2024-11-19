@@ -1,0 +1,25 @@
+.fitness-plan-container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.input-section {
+    margin: 20px;
+}
+
+.calorie-input {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.submit-button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.fitness-plan-card {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    display: inline-block;
+}
