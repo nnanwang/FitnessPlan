@@ -22,10 +22,6 @@ venv\Scripts\activate
 ```
 pip install -r requirements.txt
 ```
-Create a ```.env``` file in the backend directory and add your OpenAI API key:
-```
-OPENAI_API_KEY=your_openai_api_key
-```
 
 ### 3. Run the Flask backend:
 ```
